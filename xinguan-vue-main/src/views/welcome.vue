@@ -167,7 +167,7 @@
               <el-col :span="6"
                 ><div class="grid-content bg-purple">
                   <el-button
-                    @click="getPage('https://github.com/ynwynw/allProject')"
+                    @click="getPage('https://github.com/zhengjianzhong0107/allProject')"
                     >通用管理系统</el-button
                   >
                 </div></el-col
@@ -175,7 +175,7 @@
               <el-col :span="6"
                 ><div class="grid-content bg-purple">
                   <el-button
-                    @click="getPage('https://github.com/ynwynw/allProject')"
+                    @click="getPage('https://github.com/zhengjianzhong0107/allProject')"
                     >社区项目</el-button
                   >
                 </div></el-col
@@ -183,7 +183,7 @@
               <el-col :span="6"
                 ><div class="grid-content bg-purple">
                   <el-button
-                    @click="getPage('https://github.com/ynwynw/allProject')"
+                    @click="getPage('https://github.com/zhengjianzhong0107/allProject')"
                     >商城项目</el-button
                   >
                 </div></el-col
@@ -191,7 +191,7 @@
               <el-col :span="6"
                 ><div class="grid-content bg-purple">
                   <el-button
-                    @click="getPage('https://github.com/ynwynw/allProject')"
+                    @click="getPage('https://github.com/zhengjianzhong0107/allProject')"
                     >Githhub</el-button
                   >
                 </div></el-col
